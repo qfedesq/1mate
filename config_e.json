@@ -1,0 +1,30 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/jumecci/S/9f7a00a399cb1cfa671c6c42a82bb0e39210f95b/1mateicon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/jumecci/S/0769d3747f834fa21867d5710d574c5df844f52a/1mateh.png",
+        "location": "Patagonia, Argentina",
+        "social": {
+            "twitter_handle": "@1mate_io",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "https://discord.gg/zTCmeMXC",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "1Mate Staking Pool",
+            "addr": "",
+            "city": "Patagonia",
+            "country": "Argentina",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "1Mate it's running the MAYZ Protocol ISPO. Delegate ADA and get $MAYZ rewards with increased APY vs the regular ADA estimated APY",
+            "server": "We are operating using Virtual Machines with a total of 2 Relay Nodes and 1 Bare Metal Block Producer Node, located in Patagonia, Argentina.",
+            "company": "."
+        }
+    }
+}
